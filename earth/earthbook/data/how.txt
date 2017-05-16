@@ -1,0 +1,2 @@
+HOW THIS BOOK WAS MADE
+100 images were scraped from Google Images using the search term 'dead animal'.  Each iteration of this book selects a random subset of those images and processes them using a custom, randomized image manipulation method written in Processing.  Inspiration was largely drawn from Rorschach ink blots.  The code for the image manipulation is shown in the following pages.

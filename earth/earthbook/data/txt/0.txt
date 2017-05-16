@@ -1,0 +1,3 @@
+The images in this book were made with code.
+
+Each copy of this book is unique.
